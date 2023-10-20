@@ -1,0 +1,50 @@
+body {
+    background-color: burlywood;
+    color: brown;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    font-weight: 400;
+    font-family: cursive;
+}
+
+h2 {
+    color: green;
+    width: 200px;
+}
+
+.index {
+    color: blue;
+}
+
+#index {
+    color: grey;
+}
+
+p {
+    color: black;
+}
+
+img {
+    border-radius: 50%;
+    border: grey double 3px;
+}
+
+hr {
+    border-style: none;
+    border-top: grey dotted 10px;
+    width: 5%;
+}
+
+span {
+    font-weight: 900;
+    color: red;
+    background-color: aqua;
+}
+
+a {
+    text-decoration: none;
+}
+
